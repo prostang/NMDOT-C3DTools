@@ -6,6 +6,7 @@ Imports Autodesk.AutoCAD.ApplicationServices
 Imports Autodesk.Civil.ApplicationServices
 Imports System
 Imports System.Windows.Forms
+Imports System.IO
 
 
 Public Class Class1
@@ -349,4 +350,20 @@ Public Class Class1
         Dim ed As Editor = Autodesk.AutoCAD.ApplicationServices.Application.DocumentManager.MdiActiveDocument.Editor
         ed.Command("*_ToolPalettePath", "S:\Autodesk\Support\Palettes\Traffic\NMDOT-W24-W25")
     End Sub
+
+    <CommandMethod("messageUser")>
+    Public Sub messageUser()
+        Dim ServerMessage As String = "\\eabrn1\cadd\support\docs\Civil3DMessage.txt"
+        MsgBox(ServerMessage)
+        If My.Computer.FileSystem.FileExists(ServerMessage) Then
+            Dim LastMessage As Object
+            LastMessage = My.Computer.Registry.GetValue("HKEY_CURRENT_USER\Environment", "C3DlastMessage", "Default Value")
+            Dim FDate = IO.File.GetLastWriteTime(ServerMessage)
+            MsgBox(FDate)
+            MsgBox(LastMessage)
+
+        End If
+
+    End Sub
+
 End Class
