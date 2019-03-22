@@ -1,0 +1,42 @@
+C:\Users\mmadrid\AppData\Local\Temporary Projects\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbprojResolveAssemblyReference.cache
+C:\Users\mmadrid\AppData\Local\Temporary Projects\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.Resources.resources
+C:\Users\mmadrid\AppData\Local\Temporary Projects\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbproj.GenerateResource.Cache
+C:\VisualStudioProjects\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.Form1.resources
+C:\VisualStudioProjects\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.Resources.resources
+C:\VisualStudioProjects\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbproj.GenerateResource.Cache
+C:\VisualStudioProjects\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.dll
+C:\VisualStudioProjects\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.xml
+C:\VisualStudioProjects\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.pdb
+C:\VisualStudioProjects\C3D-Tools\NMDOTc3dTools.dll
+C:\VisualStudioProjects\C3D-Tools\NMDOTc3dTools.pdb
+C:\VisualStudioProjects\C3D-Tools\NMDOTc3dTools.xml
+\\MJMSV01\MJM_Consulting\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbprojResolveAssemblyReference.cache
+\\MJMSV01\MJM_Consulting\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.Resources.resources
+\\MJMSV01\MJM_Consulting\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbproj.GenerateResource.Cache
+\\MJMSV01\MJM_Consulting\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.dll
+\\MJMSV01\MJM_Consulting\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.xml
+\\MJMSV01\MJM_Consulting\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.pdb
+\\MJMSV01\MJM_Consulting\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools.dll
+\\MJMSV01\MJM_Consulting\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools.pdb
+\\MJMSV01\MJM_Consulting\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools.xml
+\\MJMSV01\MJM_Consulting\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbproj.ResolveComReference.cache
+\\MJMSV01\MJM_Consulting\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.DataShortcuts.resources
+\\MJMSV01\MJM_Consulting\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.TemplateRequest.resources
+\\MJMSV01\MJM_Consulting\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.foNextSteps.resources
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbprojResolveAssemblyReference.cache
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbproj.ResolveComReference.cache
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.AboutBox1.resources
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.DataShortcuts.resources
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.DWGUnits.resources
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.TemplateRequest.resources
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.foNextSteps.resources
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.Resources.resources
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbproj.GenerateResource.Cache
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbproj.CoreCompileInputs.cache
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.dll
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.xml
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.pdb
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools.dll
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools.pdb
+\\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools.xml
