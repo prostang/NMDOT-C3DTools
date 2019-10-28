@@ -125,6 +125,15 @@ Public Class Class1
         ed.Command("*_ToolPalettePath", "S:\Autodesk\Support\Palettes\NMDOTcustomSubs")
     End Sub
 
+    <CommandMethod("CivilMultiView")>
+    Public Sub CivilMultiView()
+        Dim acDoc As Document = Core.Application.DocumentManager.MdiActiveDocument
+        acDoc.SendStringToExecute("._Toolpalettes ", True, False, False)
+
+        Dim ed As Editor = Autodesk.AutoCAD.ApplicationServices.Application.DocumentManager.MdiActiveDocument.Editor
+        ed.Command("*_ToolPalettePath", "S:\Autodesk\Support\Palettes\CivilMultiview")
+    End Sub
+
     '---------Standard Location for Palettes---------
     <Autodesk.AutoCAD.Runtime.CommandMethodAttribute("tps")>
     Public Sub tps()

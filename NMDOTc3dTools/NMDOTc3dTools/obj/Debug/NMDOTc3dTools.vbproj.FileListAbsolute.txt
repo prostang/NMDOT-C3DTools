@@ -40,7 +40,6 @@ C:\VisualStudioProjects\C3D-Tools\NMDOTc3dTools.xml
 \\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools.dll
 \\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools.pdb
 \\MJMSV01\mjmco\Development\code\Visual_Studio\NMDOT\C3D-Tools\NMDOTc3dTools.xml
-C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbprojResolveAssemblyReference.cache
 C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbproj.ResolveComReference.cache
 C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.AboutBox1.resources
 C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.DataShortcuts.resources
@@ -48,8 +47,7 @@ C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.DW
 C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.TemplateRequest.resources
 C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.foNextSteps.resources
 C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.Resources.resources
-C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbproj.GenerateResource.Cache
-C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbproj.CoreCompileInputs.cache
+C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.vbproj.GenerateResource.cache
 C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.dll
 C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.xml
 C:\_github\NMDOT-C3DTools\NMDOTc3dTools\NMDOTc3dTools\obj\Debug\NMDOTc3dTools.pdb
